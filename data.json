@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Natraj",
+        "age": 22
+    },
+    {
+        "name": "lexi",
+        "age": 20
+    },
+    {
+        "name": "natraj",
+        "age": "8"
+    },
+    {
+        "name": null,
+        "age": null
+    },
+    {
+        "name": null,
+        "age": null
+    },
+    {
+        "name": "natraj",
+        "age": "8"
+    }
+]
